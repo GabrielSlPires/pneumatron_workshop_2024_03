@@ -1,1 +1,3 @@
-# pneumatron_workshop_2024_03
+# Pneumatron Workshop na UNICAMP em março de 2024
+
+Para analise dos dados utilizem os scripts em https://github.com/GabrielSlPires/pneumatron.
